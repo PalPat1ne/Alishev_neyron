@@ -1,0 +1,1 @@
+ns -p python3 python3Packages.matplotlib
